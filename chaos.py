@@ -73,5 +73,4 @@ def liapunov(r, n, x0=0.1, bin=300):
 
 
 if __name__ == "__main__":
-     # print(distinct_points(logistic_equation(3, 0.2, n=500)[250:]))
      pass
